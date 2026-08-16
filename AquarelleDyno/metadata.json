@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dejavue@outlook.com",
+                "Name": "kr0s"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Aquarelle Dyno",
+        "Description" : "Aquarelle Window Decoration",
+        "Id": "Aquarelle-Dyno-Aurorae",
+        "Version": "2.0",
+        "License": "GPLv3",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}
